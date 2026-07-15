@@ -199,7 +199,13 @@ export default function Home() {
             {CONCERNS.map((c, i) => {
               const Icon = c.icon;
               return (
-                <div key={c.id} className="concern-card" ref={el => cardsRef.current[i] = el}>
+                <div 
+                  key={c.id} 
+                  className="concern-card" 
+                  ref={el => cardsRef.current[i] = el}
+                  onClick={() => navigate(`/providers?search=${encodeURIComponent(c.label)}`)}
+                  style={{ cursor: 'pointer' }}
+                >
                   <Icon className="concern-card-icon" size={32} />
                   <h3>{c.label}</h3>
                   <p>{c.description}</p>
