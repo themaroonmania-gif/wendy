@@ -617,6 +617,29 @@ a:hover {
 }
 
 @media (max-width: 768px) {
+  .hero {
+    padding: 3rem 0 4rem;
+    min-height: auto;
+  }
+  
+  .hero-grid {
+    gap: 2rem;
+  }
+  
+  .section {
+    padding: 4rem 0;
+  }
+  
+  .container {
+    padding: 0 1.25rem;
+  }
+
+  .office-hero-photo {
+    height: 40vh;
+    min-height: 300px;
+    margin-top: 1rem;
+  }
+
   .concern-cards-grid {
     grid-template-columns: 1fr;
   }
