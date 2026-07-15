@@ -109,14 +109,12 @@ export default function Home() {
             <div className="hero-text">
               <p className="hero-eyebrow">Psychologist-led group practice</p>
               <h1>Compassionate, specialized mental health care.</h1>
-              <p className="hero-desc">
+              <p className="hero-desc" style={{ marginBottom: '2.5rem' }}>
                 For children, adolescents, adults, couples, and families in Addison and across Texas.
               </p>
-            </div>
-            
-            <div className="hero-visual">
+
               {/* Concern Finder */}
-              <div className="concern-finder-wrapper">
+              <div className="concern-finder-wrapper" style={{ padding: '1.5rem', maxWidth: '520px' }}>
                 <label className="concern-finder-label">What's on your mind?</label>
                 <div className="finder-input-group">
                   <Search className="finder-icon" size={20} color="var(--text-muted)" style={{marginLeft: '0.5rem'}} />
@@ -153,13 +151,16 @@ export default function Home() {
                   )}
                 </div>
               </div>
-
+            </div>
+            
+            <div className="hero-visual">
               {/* Office Photo */}
               <img 
                 ref={heroPhotoRef}
                 src="https://addisontherapy.com/__l5e/assets-v1/91133b6a-cd19-4bc9-b0df-095aac151487/ata-office-interior.jpg" 
                 alt="Addison Therapy Associates Office" 
                 className="office-hero-photo"
+                style={{ marginTop: 0 }}
               />
             </div>
           </div>
