@@ -22,8 +22,9 @@ export default function Navbar() {
   ];
 
   return (
-    <nav className="navbar">
-      <NavLink to="/" className="navbar-brand" style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
+    <>
+      <nav className="navbar">
+        <NavLink to="/" className="navbar-brand" style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
         <img src="https://addisontherapy.com/__l5e/assets-v1/3d8b6ec5-5c0b-47a6-bf07-e2af47ce003a/ata-logo.jpg" alt="Addison Therapy Associates Logo" style={{ width: '40px', height: '40px', objectFit: 'contain' }} />
         <span>Addison Therapy Associates</span>
       </NavLink>
@@ -50,6 +51,7 @@ export default function Navbar() {
       <button className="mobile-toggle" onClick={() => setMobileOpen(!mobileOpen)} aria-label="Toggle menu">
         {mobileOpen ? <X size={24} color="var(--text-primary)" /> : <Menu size={24} color="var(--text-primary)" />}
       </button>
+    </nav>
 
       {/* Mobile Menu Overlay */}
       {mobileOpen && (
@@ -75,6 +77,6 @@ export default function Navbar() {
           </ul>
         </div>
       )}
-    </nav>
+    </>
   );
 }
