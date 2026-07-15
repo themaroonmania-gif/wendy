@@ -1,0 +1,897 @@
+[
+  {
+    "id": "jose-joey-santos-iii-phd-lpcs",
+    "name": "Dr. Joey Santos III, PhD, LPC-S",
+    "title": "Licensed Professional Counselor-Supervisor",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/650c76728b78814bdbc05c05/d49cfdd4-0f95-4b6c-9c36-c85a639afaa7/HH%2314674024_Jose_Santos+III.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Teens (13–17)",
+      "Adults",
+      "Families"
+    ],
+    "issues": [
+      "ADHD",
+      "Anxiety",
+      "Depression"
+    ],
+    "specialties": [],
+    "supervisedBy": ""
+  },
+  {
+    "id": "mushfique-chowdhury-lpcassociate",
+    "name": "Mushfique Chowdhury, LPC-Associate",
+    "title": "Supervised by Dr. Wendy Bates",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/650c76728b78814bdbc05c05/bf05cdfc-710f-4692-91ad-52c0901072bc/IMG_20220904_114553_214+%281%29.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Children (3–12)",
+      "Teens (13–17)",
+      "Adults"
+    ],
+    "issues": [
+      "Trauma / PTSD",
+      "Autism",
+      "ADHD"
+    ],
+    "specialties": [],
+    "supervisedBy": "Dr. Wendy Bates"
+  },
+  {
+    "id": "allison-cornelius-lpcassociate",
+    "name": "Allison Cornelius, LPC-Associate",
+    "title": "Supervised by Dr. Wendy Bates",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/650c76728b78814bdbc05c05/dbfa5eca-8887-40c5-8231-418f83519ac8/IMG_8561.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Adults",
+      "Couples"
+    ],
+    "issues": [
+      "Anxiety",
+      "Trauma / PTSD"
+    ],
+    "specialties": [],
+    "supervisedBy": "Dr. Wendy Bates"
+  },
+  {
+    "id": "brianna-george-lpcassociate",
+    "name": "Brianna George, LPC-Associate",
+    "title": "Supervised by Dr. Shyann Campana",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/650c76728b78814bdbc05c05/f3b1d76b-2b82-48f7-8f1d-583006280656/therapy+profile+.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Adults",
+      "Couples"
+    ],
+    "issues": [
+      "Eating Disorders",
+      "Self-Esteem",
+      "Trauma / PTSD"
+    ],
+    "specialties": [],
+    "supervisedBy": "Dr. Shyann Campana"
+  },
+  {
+    "id": "casey-matthews-lpcassociate",
+    "name": "Casey Matthews, LPC-Associate",
+    "title": "Supervised by Dr. Shyann Campana",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/650c76728b78814bdbc05c05/31fce76e-bd61-4ba0-856d-fab9f9476a45/2025_CaseyMatthews_Headshot-7.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Children (3–12)",
+      "Parents",
+      "Teens (13–17)"
+    ],
+    "issues": [
+      "Anxiety",
+      "Depression",
+      "Trauma / PTSD"
+    ],
+    "specialties": [],
+    "supervisedBy": "Dr. Shyann Campana"
+  },
+  {
+    "id": "lindy-dokken-lpc",
+    "name": "Lindy Dokken, LPC",
+    "title": "Licensed Professional Counselor",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/650c76728b78814bdbc05c05/28e2b513-061f-4bc8-bbb5-64b9eee9188a/Photo.jpeg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Teens (13–17)",
+      "Adults",
+      "Couples"
+    ],
+    "issues": [
+      "Trauma / PTSD",
+      "Anxiety",
+      "Depression"
+    ],
+    "specialties": [],
+    "supervisedBy": ""
+  },
+  {
+    "id": "anna-grimm-lmftassociate",
+    "name": "Anna Grimm, LMFT-Associate",
+    "title": "Supervised by Dr. Shyann Campana",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/650c76728b78814bdbc05c05/4d7c33e6-bd7f-46af-ad64-3c51636568d9/Anna+photo.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Teens (13–17)",
+      "Adults",
+      "Couples",
+      "Couples"
+    ],
+    "issues": [
+      "Relationships"
+    ],
+    "specialties": [
+      "Family"
+    ],
+    "supervisedBy": "Dr. Shyann Campana"
+  },
+  {
+    "id": "gaby-fleming-lpcassociate",
+    "name": "Gaby Fleming, LPC-Associate, NCC",
+    "title": "Supervised by Dr. Shyann Campana",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/650c76728b78814bdbc05c05/c6bea76d-301a-40f9-8074-a1e8de348d50/IMG_1489.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Teens (13–17)",
+      "Adults"
+    ],
+    "issues": [
+      "Relationships",
+      "Life Transitions"
+    ],
+    "specialties": [
+      "Teen"
+    ],
+    "supervisedBy": "Dr. Shyann Campana"
+  },
+  {
+    "id": "kirsten-aurbakken-lpcassociate",
+    "name": "Kirsten Aurbakken, LPC-Associate",
+    "title": "Supervised by Dr. Wendy Bates",
+    "imageUrl": "https://dtacare.com/__l5e/assets-v1/0b419c71-0664-4826-9595-4e4ed5dd9d99/kirsten-aurbakken.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Children (3–12)",
+      "Teens (13–17)",
+      "Adults"
+    ],
+    "issues": [
+      "Autism",
+      "ADHD",
+      "LGBTQ+"
+    ],
+    "specialties": [],
+    "supervisedBy": "Dr. Wendy Bates"
+  },
+  {
+    "id": "myrna-olaya-lpc",
+    "name": "Dr. Myrna Olaya, LPC",
+    "title": "Licensed Professional Counselor",
+    "imageUrl": "https://dtacare.com/__l5e/assets-v1/fee46416-3ade-49f3-a6d1-ee22e8c86e73/myrna-olaya.png",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Teens (13–17)",
+      "Young Adults (18–25)",
+      "Adults",
+      "Couples"
+    ],
+    "issues": [
+      "Trauma / PTSD",
+      "Relationships"
+    ],
+    "specialties": [],
+    "supervisedBy": ""
+  },
+  {
+    "id": "wendy-bates-psyd",
+    "name": "Dr. Wendy Bates",
+    "title": "Practice Owner · Licensed Psychologist",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c7166ade5f7d13c5ca35eb6/1609634869611-8345AWIADRO1VO76YL2L/Wendy-Bates-Photo.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Teens (13–17)",
+      "Adults",
+      "Couples",
+      "Couples"
+    ],
+    "issues": [
+      "Relationships"
+    ],
+    "specialties": [
+      "Teen"
+    ],
+    "supervisedBy": ""
+  },
+  {
+    "id": "katerina-nair-psyd",
+    "name": "Dr. Katerina Nair",
+    "title": "Licensed Psychologist",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c7166ade5f7d13c5ca35eb6/1609634889547-5IKWUI1BCFFBK5G3FZBR/sWm92qwMTpWhTBh14Nm1VA_thumb_7455.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Adults"
+    ],
+    "issues": [
+      "ADHD",
+      "Anxiety",
+      "Depression"
+    ],
+    "specialties": [],
+    "supervisedBy": ""
+  },
+  {
+    "id": "juli-hishida-phd",
+    "name": "Dr. Juli Hishida",
+    "title": "Licensed Psychologist",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c7166ade5f7d13c5ca35eb6/7245bc3a-5b72-4e0b-be97-23ddd1d4082a/7c4a4f71-258f-4e43-b2df-5eb53ace17bb.jpg.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Teens (13–17)",
+      "Adults",
+      "Families"
+    ],
+    "issues": [
+      "Trauma / PTSD",
+      "Relationships",
+      "Child"
+    ],
+    "specialties": [],
+    "supervisedBy": ""
+  },
+  {
+    "id": "karla-gomezestrada-psyd",
+    "name": "Dr. Karla Gomez-Estrada",
+    "title": "Licensed Psychologist",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c7166ade5f7d13c5ca35eb6/e9b51e6c-0e2e-4f88-a3e2-8e1a4b1dc720/869ABF94-BC9A-466A-86DA-C176C24BD33A.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Adults",
+      "Couples"
+    ],
+    "issues": [
+      "Anxiety",
+      "Depression",
+      "Trauma / PTSD"
+    ],
+    "specialties": [],
+    "supervisedBy": ""
+  },
+  {
+    "id": "giovanna-perez-phd",
+    "name": "Dr. Giovanna Perez",
+    "title": "Post-Doctoral Fellow · Supervised by Dr. Shyann Campana",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c7166ade5f7d13c5ca35eb6/6f054c3d-2ad7-4961-82b7-a8f446b7d0ff/G+Perez.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Adults"
+    ],
+    "issues": [
+      "Anxiety",
+      "Depression",
+      "Life Transitions"
+    ],
+    "specialties": [],
+    "supervisedBy": "Post-Doctoral Fellow ·  Dr. Shyann Campana"
+  },
+  {
+    "id": "mary-kate-notter-lmft",
+    "name": "Mary Kate Notter, LMFT-Associate & LPC-Associate",
+    "title": "Supervised by Dr. Wendy Bates",
+    "imageUrl": "https://dtacare.com/__l5e/assets-v1/4c6f50f1-80af-4358-82b5-ed4c90148d33/mary-kate-notter.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Teens (13–17)",
+      "Young Adults (18–25)",
+      "Adults"
+    ],
+    "issues": [
+      "Life Transitions",
+      "Dating and Relationship Issues",
+      "Communication"
+    ],
+    "specialties": [],
+    "supervisedBy": "Dr. Wendy Bates"
+  },
+  {
+    "id": "taylor-reynolds-lpcassociate",
+    "name": "Taylor Reynolds, LPC-Associate",
+    "title": "Supervised by Dr. Karla Gomez",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c7166ade5f7d13c5ca35eb6/4421ab9f-5882-4991-9ebb-bc3863f9fad7/Untitled+design.png",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Teens (13–17)",
+      "Adults",
+      "Couples"
+    ],
+    "issues": [
+      "Anxiety",
+      "Depression",
+      "Trauma / PTSD"
+    ],
+    "specialties": [],
+    "supervisedBy": "Dr. Karla Gomez"
+  },
+  {
+    "id": "cyndi-gump-lpc",
+    "name": "Cyndi Gump, LPC",
+    "title": "Licensed Professional Counselor",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c7166ade5f7d13c5ca35eb6/f9fbf85a-14ae-4408-8769-290b32aba73d/CGump.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Families"
+    ],
+    "issues": [
+      "Anxiety",
+      "Depression",
+      "Trauma / PTSD"
+    ],
+    "specialties": [],
+    "supervisedBy": ""
+  },
+  {
+    "id": "claire-bedford-lpc-1",
+    "name": "Claire Bedford, LPC",
+    "title": "Licensed Professional Counselor",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c7166ade5f7d13c5ca35eb6/25cc8ce4-67b4-4a1c-874e-74f92062f8f6/headshot.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Adults"
+    ],
+    "issues": [
+      "Trauma / PTSD",
+      "Relationships"
+    ],
+    "specialties": [],
+    "supervisedBy": ""
+  },
+  {
+    "id": "david-daugherty-lpcassociate",
+    "name": "David Daugherty, LPC-Associate",
+    "title": "Supervised by Dr. James Parker",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c7166ade5f7d13c5ca35eb6/98a0bb40-89d4-43b5-9a5a-daebbe004f00/Joyful+Profile.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Teens (13–17)",
+      "Adults"
+    ],
+    "issues": [
+      "Autism",
+      "Life Transitions",
+      "Anxiety"
+    ],
+    "specialties": [],
+    "supervisedBy": "Dr. James Parker"
+  },
+  {
+    "id": "sarah-louy-lpcassociate",
+    "name": "Sarah Louy, LPC-Associate",
+    "title": "Supervised by Dr. Karla Gomez",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c7166ade5f7d13c5ca35eb6/ecfb52f5-b347-401d-a76d-9ee5ee246a6c/sarahLbiopic.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Adults"
+    ],
+    "issues": [
+      "Anxiety",
+      "Trauma / PTSD"
+    ],
+    "specialties": [
+      "Family"
+    ],
+    "supervisedBy": "Dr. Karla Gomez"
+  },
+  {
+    "id": "camry-butler-lpc-1",
+    "name": "Camry Butler, LPC",
+    "title": "Licensed Professional Counselor",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c7166ade5f7d13c5ca35eb6/7d00a671-ea65-4134-89bf-c66049d72bac/IMG_2119.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Adults",
+      "Families"
+    ],
+    "issues": [
+      "Anxiety",
+      "Depression",
+      "Trauma / PTSD"
+    ],
+    "specialties": [],
+    "supervisedBy": ""
+  },
+  {
+    "id": "jesse-urbina-lpcassociate",
+    "name": "Jesse Urbina, LPC-Associate",
+    "title": "Supervised by Dr. Karla Gomez",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c7166ade5f7d13c5ca35eb6/962caf28-d5b4-45dc-92ee-3ff87f4f85b0/58635295-6992-4AAE-A2DD-77D337E36233_1_105_c.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Young Adults (18–25)",
+      "Adults"
+    ],
+    "issues": [
+      "Anxiety",
+      "Depression",
+      "Trauma / PTSD"
+    ],
+    "specialties": [],
+    "supervisedBy": "Dr. Karla Gomez"
+  },
+  {
+    "id": "sophia-jensen-lpcassociate",
+    "name": "Sophia Jensen, LPC-Associate",
+    "title": "Supervised by Dr. Karla Gomez",
+    "imageUrl": "https://dtacare.com/__l5e/assets-v1/6b570a41-b4dc-4102-8de9-a1559570a9bd/sophia-jensen.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Teens (13–17)",
+      "Young Adults (18–25)",
+      "Adults"
+    ],
+    "issues": [
+      "Abuse / Neglect",
+      "Sexual Abuse / Trauma",
+      "Domestic Violence"
+    ],
+    "specialties": [],
+    "supervisedBy": "Dr. Karla Gomez"
+  },
+  {
+    "id": "bianca-hemphill-lpa",
+    "name": "Bianca Hemphill, LPA",
+    "title": "Supervised by Dr. Katerina Nair",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c7166ade5f7d13c5ca35eb6/1612317780529-F6Y5P0ZVTAY8W6ODCKEW/B%2BHemphill%2BPsychology%2BToday%2BProfile%2BPicture.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Children (3–12)",
+      "Teens (13–17)",
+      "Families"
+    ],
+    "issues": [
+      "ADHD",
+      "Anxiety",
+      "Child"
+    ],
+    "specialties": [],
+    "supervisedBy": "Dr. Katerina Nair"
+  },
+  {
+    "id": "christina-morris-lpc",
+    "name": "Christina Morris, LPC",
+    "title": "Licensed Professional Counselor",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c7166ade5f7d13c5ca35eb6/eb89fad9-2af7-4e60-8bb4-05edaeebf41b/Headshot.png",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Adults",
+      "Couples",
+      "Families",
+      "Couples"
+    ],
+    "issues": [
+      "Anxiety",
+      "Relationships"
+    ],
+    "specialties": [],
+    "supervisedBy": ""
+  },
+  {
+    "id": "brianne-rodgers-lpcassociate",
+    "name": "Brianne Rodgers, LPC",
+    "title": "Supervised by Dr. Wendy Bates",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c7166ade5f7d13c5ca35eb6/99f52779-880a-475b-a651-4146f82bd9e5/Headshot.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Adults",
+      "Families"
+    ],
+    "issues": [
+      "Anxiety",
+      "Depression",
+      "Relationships"
+    ],
+    "specialties": [],
+    "supervisedBy": "Dr. Wendy Bates"
+  },
+  {
+    "id": "erica-brown-lpc",
+    "name": "Erica Brown, LPC",
+    "title": "Licensed Professional Counselor",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c7166ade5f7d13c5ca35eb6/4766fcc6-3da9-4d3b-b70e-8b0fb9a16102/EB+Headshot.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Adults",
+      "Couples",
+      "Families",
+      "Couples"
+    ],
+    "issues": [
+      "Anxiety",
+      "Trauma / PTSD"
+    ],
+    "specialties": [],
+    "supervisedBy": ""
+  },
+  {
+    "id": "william-brown-lpc",
+    "name": "William Brown, LPC",
+    "title": "Licensed Professional Counselor",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c7166ade5f7d13c5ca35eb6/1633905319237-RGGE0UZGUA1CZKM65Z7O/Headshot%2B2019.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Adults"
+    ],
+    "issues": [
+      "ADHD",
+      "Trauma / PTSD",
+      "Anxiety"
+    ],
+    "specialties": [],
+    "supervisedBy": ""
+  },
+  {
+    "id": "caroline-bryan-lpc-mtbc-nicumt",
+    "name": "Caroline Bryan, LPC, MT-BC",
+    "title": "Licensed Professional Counselor and Certified Music Therapist",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c7166ade5f7d13c5ca35eb6/b97807a7-386e-4e79-8806-3e677c84904c/20211129_093142.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Teens (13–17)",
+      "Adults"
+    ],
+    "issues": [
+      "Anxiety",
+      "Depression",
+      "Trauma / PTSD"
+    ],
+    "specialties": [],
+    "supervisedBy": ""
+  },
+  {
+    "id": "valerie-dunn-lpcassociate",
+    "name": "Valerie Dunn, LPC-Associate",
+    "title": "Supervised by Dr. Katerina Nair",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c7166ade5f7d13c5ca35eb6/04cafb89-1f5c-49ba-8839-15400c0f7e0a/Untitled+design+%282%29.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Teens (13–17)",
+      "Young Adults (18–25)",
+      "Adults"
+    ],
+    "issues": [
+      "Anxiety",
+      "Depression",
+      "Trauma / PTSD"
+    ],
+    "specialties": [],
+    "supervisedBy": "Dr. Katerina Nair"
+  },
+  {
+    "id": "natasha-driedger-lpcassociate",
+    "name": "Natasha Driedger, LPC-Associate",
+    "title": "Supervised by Dr. James Parker",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c7166ade5f7d13c5ca35eb6/bc4ed486-3cf9-47be-9941-1be7f97a443f/photo.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Adults"
+    ],
+    "issues": [
+      "Life Transitions",
+      "Trauma / PTSD",
+      "Relationships"
+    ],
+    "specialties": [],
+    "supervisedBy": "Dr. James Parker"
+  },
+  {
+    "id": "lex-vriend-lpc",
+    "name": "Lex Vriend, LPC",
+    "title": "Licensed Professional Counselor",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c7166ade5f7d13c5ca35eb6/77a189cb-864d-4bfe-8407-41bf6267cba6/DSC01159.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Teens (13–17)",
+      "Adults",
+      "Families"
+    ],
+    "issues": [
+      "Relationships",
+      "Child"
+    ],
+    "specialties": [
+      "Teen"
+    ],
+    "supervisedBy": ""
+  },
+  {
+    "id": "sep-eisapour-lmftassociate",
+    "name": "Sep Eisapour, LMFT",
+    "title": "Licensed Marriage & Family Therapist",
+    "imageUrl": "https://dtacare.com/__l5e/assets-v1/a6203dd9-ca5c-4562-b9bc-fa23c3b1cc31/sep-eisapour.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Young Adults (18–25)",
+      "Adults",
+      "Couples",
+      "Couples"
+    ],
+    "issues": [
+      "Trauma / PTSD",
+      "Relationships"
+    ],
+    "specialties": [],
+    "supervisedBy": ""
+  },
+  {
+    "id": "sarita-patel-phd",
+    "name": "Dr. Sarita Patel",
+    "title": "Licensed Psychologist",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c7166ade5f7d13c5ca35eb6/3189576c-22fb-44db-8527-eaa92aff47f6/Sarita_Patel.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Teens (13–17)",
+      "Adults",
+      "Families"
+    ],
+    "issues": [
+      "Anxiety",
+      "Depression",
+      "Trauma / PTSD"
+    ],
+    "specialties": [],
+    "supervisedBy": ""
+  },
+  {
+    "id": "shyann-campana-psyd",
+    "name": "Dr. Shyann Campana",
+    "title": "Licensed Psychologist",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c7166ade5f7d13c5ca35eb6/fa324bce-e741-4202-ad64-7e4874b110c4/headshot-DTA.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Teens (13–17)",
+      "Adults",
+      "Couples"
+    ],
+    "issues": [
+      "Anxiety",
+      "Depression",
+      "Trauma / PTSD"
+    ],
+    "specialties": [],
+    "supervisedBy": ""
+  },
+  {
+    "id": "rebecca-bailey-lpc",
+    "name": "Rebecca Bailey, LPC",
+    "title": "Licensed Professional Counselor",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c7166ade5f7d13c5ca35eb6/32c27c87-949f-49da-86a2-2acc1ca2d52c/photo.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Families"
+    ],
+    "issues": [
+      "Anxiety",
+      "Depression",
+      "Trauma / PTSD"
+    ],
+    "specialties": [],
+    "supervisedBy": ""
+  },
+  {
+    "id": "alejandra-rios-psyd",
+    "name": "Dr. Alejandra Rios-Cruz",
+    "title": "Licensed Psychologist",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c7166ade5f7d13c5ca35eb6/6eaa5921-4f07-443e-8df6-80129a1a5faa/IMG_9783.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Adults"
+    ],
+    "issues": [
+      "Anxiety",
+      "Depression",
+      "Trauma / PTSD"
+    ],
+    "specialties": [],
+    "supervisedBy": ""
+  },
+  {
+    "id": "james-parker-phd",
+    "name": "Dr. James Parker",
+    "title": "Licensed Psychologist",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c7166ade5f7d13c5ca35eb6/a2bee385-8e83-44f3-ba48-1d3721ecb7b0/Profile+Pic+2.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Adults",
+      "Couples"
+    ],
+    "issues": [
+      "Anxiety",
+      "Depression"
+    ],
+    "specialties": [
+      "Grief"
+    ],
+    "supervisedBy": ""
+  },
+  {
+    "id": "riley-basil-lpcassociate",
+    "name": "Riley Basil, LPC",
+    "title": "Licensed Professional Counselor",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c7166ade5f7d13c5ca35eb6/05b39f6c-0aa0-4921-8f9c-77d96e158bfc/Headshot.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Families"
+    ],
+    "issues": [
+      "Trauma / PTSD",
+      "Relationships",
+      "Child"
+    ],
+    "specialties": [],
+    "supervisedBy": ""
+  },
+  {
+    "id": "josh-philip-phd",
+    "name": "Josh Philip, PhD",
+    "title": "Licensed Psychologist",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5c7166ade5f7d13c5ca35eb6/7672f908-29e4-451c-822a-0ea701361b10/BioPicJosh.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Teens (13–17)"
+    ],
+    "issues": [
+      "Relationships",
+      "Child"
+    ],
+    "specialties": [
+      "Teen"
+    ],
+    "supervisedBy": ""
+  },
+  {
+    "id": "rebecca-harris-jaimes-lpc",
+    "name": "Rebecca Harris-Jaimes, M.S., LPC",
+    "title": "Licensed Professional Counselor & Registered Play Therapist",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/6513343931479e09ac045852/09ddc480-527d-4702-a368-ef332a1edf9d/Headshot.JPG",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Teens (13–17)",
+      "Adults"
+    ],
+    "issues": [
+      "Anxiety",
+      "Depression",
+      "Trauma / PTSD"
+    ],
+    "specialties": [],
+    "supervisedBy": ""
+  },
+  {
+    "id": "sara-folsomthelier-lmftassociate",
+    "name": "Sara Folsom-Thelier, LMFT-Associate",
+    "title": "Supervised by Dr. James Parker",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/6513343931479e09ac045852/30d7cf49-32b9-434d-b279-1ed86e6b4e5e/SARA+FT+-+HEADSHOT.jpg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Teens (13–17)",
+      "Adults",
+      "Couples",
+      "Couples"
+    ],
+    "issues": [
+      "Trauma / PTSD",
+      "Relationships"
+    ],
+    "specialties": [],
+    "supervisedBy": "Dr. James Parker"
+  },
+  {
+    "id": "joshua-pohl-lpcassociate",
+    "name": "Joshua Pohl, LPC-Associate",
+    "title": "Supervised by Dr. Wendy Bates",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/6513343931479e09ac045852/76c139ba-4195-4e2c-b6f3-85ffdeafca70/Professional+Photo.jpeg",
+    "locations": [],
+    "accepting": false,
+    "telehealth": false,
+    "ageGroups": [
+      "Adults"
+    ],
+    "issues": [
+      "Anxiety",
+      "Depression"
+    ],
+    "specialties": [
+      "Grief"
+    ],
+    "supervisedBy": "Dr. Wendy Bates"
+  }
+]
